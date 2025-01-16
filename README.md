@@ -28,6 +28,7 @@ Results:
 	•	Learned the basics of IP addressing, DHCP, and LAN configurations.
 
 Lessons Learned:
+
 	•	Learned the basics of IP addressing, DHCP, and LAN configurations.
 
 Conclusion:
